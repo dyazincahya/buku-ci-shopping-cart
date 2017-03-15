@@ -23,7 +23,7 @@ Terdapat 2 source yaitu ``rendang`` dan ``shop_online`` (extrak source tersebut 
 Pada setiap source terdapat file rendang.sql, silahkan import file ini ke mysql. Caranya bisa melalui phpmyadmin atau sql manager seperti ``navicat`` atau ``mysql workbench``. Untuk langkah-langkah mengimportnya kamu bisa browsing sendiri di internet :) .
 
 - #4
-Jika sql sudah selesai di import, selanjutnya atur konfigurasi database pada ``xampp\htdocs\(shop_online or rendang)\aplications\config\database.php``
+Jika sql sudah selesai di import, selanjutnya atur konfigurasi database pada ``xampp\htdocs\rendang\aplications\config\database.php`` atau ``xampp\htdocs\shop_online\aplications\config\database.php``
 
 - #5
 Coba akses menggunakan browser ``http://localhost/rendang`` atau ``http://loacalhost/shop_online``
