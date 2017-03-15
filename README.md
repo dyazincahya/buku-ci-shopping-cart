@@ -11,7 +11,7 @@ Buku ini adalah buku pertama saya yang saya tulis pada 2014, kemudian di terbitk
 - Bootstrap 3.0
 
 # Instalasi
-Ada beberapa orang mengirim email dan menanyakan kembali tentang bagaimana cara menginstalasi atau menjalankan source code ini. Untuk bagian ini sebenarnya sudah saya paparkan semuanya di dalam buku saya. Tapi tak apa, pada repositori ini saya akan sedikit membahasnya, berikut langkah-langkahnya:
+Ada beberapa orang mengirim email dan menanyakan kembali tentang bagaimana cara menginstalasi atau menjalankan source code ini. Untuk bagian ini sebenarnya sudah saya paparkan semuanya di dalam buku. Tapi tak apa, pada repositori ini saya akan sedikit membahasnya, berikut langkah-langkahnya:
 
 - #1
 Untuk xampp kamu bisa mengunduhnya [disini](https://www.apachefriends.org/index.html), versi xampp wajib sama dan jangan mengunduh xampp portable. Untuk instalasi xampp bebas, diletakan di drive ``C:`` atau ``D:`` tidak masalah.
