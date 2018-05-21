@@ -5,10 +5,10 @@
 Buku ini adalah buku pertama saya yang saya tulis pada 2014, kemudian di terbitkan oleh [andi publisher](http://andipublisher.com/) pada 5 desember 2015. Ini adalah repositori asset data CD dari buku "[Membangun Aplikasi Online Shop Dengan Codelgniter Untuk Pemula](http://www.gramedia.com/membangun-aplikasi-online-shop-dgn-codelgniter-untuk-pemula-cd.html)".
 
 # Support
-- Xampp 1.8.0 (PHP 5.4.4 && MYSQL 3.5.2)
-- Codeigniter 2.1.4
-- Grocery CRUD 1.4.1
-- Bootstrap 3.0
+- [Xampp 1.8.0 (PHP 5.4.4 && MYSQL 3.5.2)](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.0/)
+- [Codeigniter 2.1.4](https://github.com/bcit-ci/CodeIgniter/releases/tag/2.1.4)
+- [Grocery CRUD 1.4.1](https://www.grocerycrud.com/downloads)
+- [Bootstrap 3.0](http://bootstrapdocs.com/v3.0.0/docs/)
 
 # Instalasi
 Ada beberapa orang mengirim email dan menanyakan kembali tentang bagaimana cara menginstalasi atau menjalankan source code ini. Untuk bagian ini sebenarnya sudah saya paparkan semuanya di dalam buku. Tapi tak apa, pada repositori ini saya akan sedikit membahasnya, berikut langkah-langkahnya:
@@ -28,7 +28,6 @@ Jika sql sudah selesai di import, selanjutnya atur konfigurasi database pada ``x
 - #5
 Coba akses menggunakan browser ``http://localhost/rendang`` atau ``http://loacalhost/shop_online``
 
-
 Sebelum saya mengakhiri tulisan ini, saya sebagai penulis ingin mengucapkan terima kasih kepada kamu yang sudah membeli buku saya, semoga buku ini bermanfaat dan bisa menambah ilmu bagi pembacanya, amiiiin.
 
-**~ danke schön :)**
+## danke schön :)
